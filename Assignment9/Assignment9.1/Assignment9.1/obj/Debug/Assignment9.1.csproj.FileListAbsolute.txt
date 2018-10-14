@@ -1,0 +1,7 @@
+C:\Users\care\Desktop\C#\Assignment9\Assignment9.1\Assignment9.1\bin\Debug\Assignment9.1.exe.config
+C:\Users\care\Desktop\C#\Assignment9\Assignment9.1\Assignment9.1\bin\Debug\Assignment9.1.exe
+C:\Users\care\Desktop\C#\Assignment9\Assignment9.1\Assignment9.1\bin\Debug\Assignment9.1.pdb
+C:\Users\care\Desktop\C#\Assignment9\Assignment9.1\Assignment9.1\obj\Debug\Assignment9.1.csprojResolveAssemblyReference.cache
+C:\Users\care\Desktop\C#\Assignment9\Assignment9.1\Assignment9.1\obj\Debug\Assignment9.1.csproj.CoreCompileInputs.cache
+C:\Users\care\Desktop\C#\Assignment9\Assignment9.1\Assignment9.1\obj\Debug\Assignment9.1.exe
+C:\Users\care\Desktop\C#\Assignment9\Assignment9.1\Assignment9.1\obj\Debug\Assignment9.1.pdb

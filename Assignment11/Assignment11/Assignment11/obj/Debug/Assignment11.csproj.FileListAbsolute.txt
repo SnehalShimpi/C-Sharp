@@ -1,0 +1,7 @@
+C:\Users\care\Desktop\C#\Assignment11\Assignment11\Assignment11\obj\Debug\Assignment11.csprojResolveAssemblyReference.cache
+C:\Users\care\Desktop\C#\Assignment11\Assignment11\Assignment11\obj\Debug\Assignment11.csproj.CoreCompileInputs.cache
+C:\Users\care\Desktop\C#\Assignment11\Assignment11\Assignment11\bin\Debug\Assignment11.exe.config
+C:\Users\care\Desktop\C#\Assignment11\Assignment11\Assignment11\bin\Debug\Assignment11.exe
+C:\Users\care\Desktop\C#\Assignment11\Assignment11\Assignment11\bin\Debug\Assignment11.pdb
+C:\Users\care\Desktop\C#\Assignment11\Assignment11\Assignment11\obj\Debug\Assignment11.exe
+C:\Users\care\Desktop\C#\Assignment11\Assignment11\Assignment11\obj\Debug\Assignment11.pdb
