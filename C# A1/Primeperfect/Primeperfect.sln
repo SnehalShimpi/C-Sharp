@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primeperfect", "Primeperfect\Primeperfect.csproj", "{71B366F7-06DD-429F-BF83-E57E76B0B71B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71B366F7-06DD-429F-BF83-E57E76B0B71B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71B366F7-06DD-429F-BF83-E57E76B0B71B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71B366F7-06DD-429F-BF83-E57E76B0B71B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71B366F7-06DD-429F-BF83-E57E76B0B71B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB59294B-43CC-422B-91EF-B79BD5EF6589}
+	EndGlobalSection
+EndGlobal
